@@ -13,5 +13,11 @@ public class MathMethods {
 		result = a * b;
 		return result;
 	}
+
+	public static Integer div(Integer a, Integer b){
+		Integer result;
+		result = a / b;
+		return result;
+	}
 	
 }
