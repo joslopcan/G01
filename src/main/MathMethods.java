@@ -8,5 +8,10 @@ public class MathMethods {
 		return result;
 	}
 	
+	public static Integer prod(Integer a, Integer b){
+		Integer result;
+		result = a * b;
+		return result;
+	}
 	
 }
