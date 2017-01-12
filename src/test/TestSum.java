@@ -12,7 +12,7 @@ public class TestSum extends TestCase {
 	}
 
 	public void testSumaDosNegativos() {
-		assertTrue(-4 == MathMethods.sum(-2, -2));
+		assertTrue(-3 == MathMethods.sum(-2, -2));
 	}
 	
 	
