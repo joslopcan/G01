@@ -20,16 +20,9 @@ public class MathMethods {
 		return result;
 	}
 
-	public static Integer exp(Integer a, Integer b){
-		Integer result;
-		result = a
-		for(int i=1;i<b;i++)
-		result = result * result;
-		}
-		if(b==0){
-		result=1;
-		}
-		return result;
+	public static Integer primo(Integer a){
+		System.out.println("Eres un primo");
+		return a;
 
 	}
 	
