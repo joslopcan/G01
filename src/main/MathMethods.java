@@ -10,7 +10,7 @@ public class MathMethods {
 	
 	public static Integer prod(Integer a, Integer b){
 		Integer result;
-		result = a * b;
+		result = a + b;
 		return result;
 	}
 	
